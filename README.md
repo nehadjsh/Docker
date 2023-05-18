@@ -1,8 +1,6 @@
 ## Docker
 
 
-**How do I install and run Docker on Ubuntu?!**
-
 [How do I install and run Docker on Ubuntu?!](https://github.com/nehadjsh/Docker/issues/1)
 
 
